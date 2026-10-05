@@ -11,7 +11,10 @@ User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: GPTBot
-Allow: /
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
 
 User-agent: ClaudeBot
 Allow: /
